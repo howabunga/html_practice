@@ -2,8 +2,21 @@
 * {
   box-sizing: border-box;
 
-  border: thin red solid;
+  
 }
 /* You can turn it off if you want. (delete or comment it out) */
 
 /* Write your rules below */
+
+.link {
+	color: white;
+  	background-color: lightblue;
+  	text-align: center;
+  	box-shadow: 1px 1px 1px grey;
+  	width: 100%;
+  	padding: 5px;
+  	text-decoration: none;
+	display: block;
+	border-radius: 10px;
+
+}
